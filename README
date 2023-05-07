@@ -1,0 +1,31 @@
+Project Title: Pong Rendition
+Author: Sean Fitzgerald
+Date: 5/7/2023
+Version: 1.0.0
+Description: Simple rendition of the classic of game Pong created with PyGame
+Requirements: Python 3.9
+
+How to run:
+
+1. Double click on python executable called "Pong"
+2. Click on game screen that appears and play
+
+Controls: 
+
+    The left paddle and right paddle can only move vertically.
+    The left paddle can move up with 'w' and down with 's'.
+    The right paddle can move up with the 'up arrow' and down with the 'down arrow' located on the keyboard 
+
+
+Credits:
+
+    Knowledge required to recreate this game was gained from watching a tutorial on how to use PyGame, "Pygame in 90 Minutes - For Beginners" by Tech With Tim. https://www.youtube.com/watch?v=jO6qQDNa2UY
+
+    Parts of the code were optimized with the use of ChatGPT. The function pong_handle_movement() was created with the help of ChatGPT.
+
+
+Future Improvements:
+
+    Develop capacity for single player with creation of AI for one of the paddles.
+    Add sound for all collisions
+    Add simple background music
